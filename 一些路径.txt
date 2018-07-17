@@ -1,0 +1,20 @@
+QQ
+C:\Users\Administrator\Documents\Tencent Files\1446075211\FileRecv
+微信
+C:\Users\Administrator\Documents\WeChat Files\
+
+
+C:\Users\Administrator\Documents\WeChat Files\lanjian765\Attachment
+
+政务微信
+C:\Users\Administrator\Documents\WXWorkLocal\1688849888300692\Cache\File
+
+mongo 启动
+
+1  先建立一个文件夹
+
+2 启动 mongod.exe 
+       mongod --storageEngine mmapv1 --dbpath=C:\Users\Administrator\Desktop\mongodb_im
+3 运行 mongon.exe
+       mongo
+
